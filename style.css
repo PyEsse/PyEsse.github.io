@@ -141,7 +141,7 @@ nav ul li a {
 
 .contenu .projets-section .projets .projet a:hover{
     text-decoration: none;
-    color: rgb(54, 52, 199);
+    color: #3634C7;
     font-size: 18px;
 }
 
@@ -152,7 +152,7 @@ nav ul li a {
 
 .contenu .projets-section .projets .projet .date {
     font-size: 11px;
-    color: rgb(54, 52, 199);
+    color: #3634C7;
 }
 
 footer {
