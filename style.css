@@ -139,6 +139,13 @@ nav ul li a {
     color: #000;
 }
 
+.contenu .projets-section .projets .projet a:hover{
+    text-decoration: none;
+    color: rgb(54, 52, 199);
+    font-size: 18px;
+}
+
+
 .contenu .projets-section .projets .projet .description {
     font-size: 12px;
 } 
