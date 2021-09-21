@@ -46,6 +46,7 @@ body {
 
 .card h1:hover{
     opacity: 0.3;  
+    cursor: pointer;    
 }
     
 .card span {
