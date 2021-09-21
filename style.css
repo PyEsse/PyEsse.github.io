@@ -122,7 +122,6 @@ nav ul li a {
 .contenu .projets-section .projets{
     display: flex;
     flex-wrap: wrap;
-    cursor: pointer; 
 }
 
 .contenu .projets-section .projets .projet {
@@ -132,6 +131,7 @@ nav ul li a {
 
 .contenu .projets-section .projets .projet h4 {
     margin: 0;
+    cursor: pointer; 
 }
 
 .contenu .projets-section .projets .projet a{
