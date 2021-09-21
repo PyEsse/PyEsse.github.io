@@ -134,6 +134,11 @@ nav ul li a {
     margin: 0;
 }
 
+.contenu .projets-section .projets .projet a{
+    text-decoration: none;
+    color: #000;
+}
+
 .contenu .projets-section .projets .projet .description {
     font-size: 10px;
 } 
