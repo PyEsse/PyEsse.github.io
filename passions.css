@@ -31,6 +31,7 @@ header nav a {
 header nav .visage img {
     position: relative;
     width : 50%;
+    transition: 0.8s ease-in;
 }
 
 header nav .visage img:hover {
@@ -38,6 +39,8 @@ header nav .visage img:hover {
     width : 70%;
     text-decoration: none;
     filter : invert(200%); 
+    opacity: 0.3; 
+    cursor: pointer; 
 }
    
 header nav .onglets a:hover {
