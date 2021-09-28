@@ -32,6 +32,7 @@ body {
 
 .card h1 {
     position: relative;
+    text-align: center;
     font-family: "Mali", sans-serif;
     font-size: min(8vw, 70px);
     font-weight: 350;
