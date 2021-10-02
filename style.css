@@ -25,6 +25,15 @@ nav .profil img {
     height: 60px;
     border-radius: 50%;
     text-decoration: none;
+    cursor: pointer;
+    transition: 0.8s ease-in-out;
+}
+
+nav .profil img:hover {
+    width: 40px;
+    height:40px;
+    opacity: -1;
+    cursor: pointer;
 }
 
 nav .profil h1 {
