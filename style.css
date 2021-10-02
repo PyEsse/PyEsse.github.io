@@ -134,6 +134,15 @@ nav ul li a {
     cursor: pointer; 
 }
 
+.projet #lien{
+    font-weight: bold;   
+}
+
+.projet #lien:hover {
+    color: #000;
+    font-size: 12px;
+}
+
 .contenu .projets-section .projets .projet a{
     text-decoration: none;
     color: #000;
