@@ -42,7 +42,7 @@ body {
     color: #33a05e;
     border-radius: 15px;
     filter: blur(0.01rem);
-    transition: .8s ease-in;
+    transition: 0.8s ease-in;
 }  
 
 .card h1:hover{
@@ -95,7 +95,7 @@ body {
     opacity: 0.5;
     transition: 01s ease-in;
     box-shadow: 
-   .1vw 0vw .25vw #3f7e57,
+    .1vw 0vw .25vw #3f7e57,
     .15vw 0 2vw .25vw #3f7e57,
     
     .1vw 0vw .1vw #8e1d92,
