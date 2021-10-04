@@ -57,6 +57,7 @@ body {
     letter-spacing: 5px;
     border-radius: 15px;
     color: #e0c8dc;
+    filter: brightness(2);
     filter: blur(0.1rem);
     
     box-shadow: 
@@ -83,9 +84,17 @@ body {
     .15vw 0vw 30vw #57075a,
     .4vw 0vw 10vw #363632;
 }
+
+.card span:hover {
+  opacity: 0.2;
+  cursor: pointer;
+}
+
 .card img {
     width: 80px;
     border-radius: 10px;
+    opacity: 0.5;
+    transition: 01s ease-in;
     box-shadow: 
    .1vw 0vw .25vw #3f7e57,
     .15vw 0 2vw .25vw #3f7e57,
@@ -110,5 +119,11 @@ body {
     .15vw 0vw 30vw #57075a,
     .4vw 0vw 10vw #363632;
 }
+
+.card img:hover {
+  filter: brightness(2);
+  cursor: pointer;
+}
+
     
 }
