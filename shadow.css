@@ -58,6 +58,7 @@ body {
     border-radius: 15px;
     color: #e0c8dc;
     filter: brightness(2);
+    transition: 01s ease-in;
     filter: blur(0.1rem);
     
     box-shadow: 
